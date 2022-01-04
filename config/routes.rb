@@ -1,4 +1,11 @@
 Rails.application.routes.draw do
+  resources :students do
+    resources :schedules
+    get 'download_schedule', on: :member
+  end
+  resources :class_students
+  resources :sections
+  resources :class_rooms
   resources :teachers do
     resources :teacher_subjects, shallow: true
   end

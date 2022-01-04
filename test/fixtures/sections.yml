@@ -1,0 +1,53 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+section_a:
+  start_time: <%= "#{Date.today} 08:00:00" %> 
+  end_time: <%= "#{Date.today} 08:50:00" %>
+  teacher: stone_john
+  subject: math
+  class_room: class_01
+
+section_b:
+  start_time: <%= "#{Date.today} 09:00:00" %>
+  end_time: <%= "#{Date.today} 09:50:00" %>
+  teacher: priya_ponnappa
+  subject: english
+  class_room: class_02
+
+
+section_c:
+  start_time: <%= "#{Date.today} 10:00:00" %>
+  end_time: <%= "#{Date.today} 10:50:00" %>
+  teacher: wong_mia
+  subject: chemistry
+  class_room: class_03
+
+section_d:
+  start_time: <%= "#{Date.today} 11:00:00" %>
+  end_time: <%= "#{Date.today} 11:50:00" %>
+  teacher: stanbrige_peter
+  subject: physics
+  class_room: class_04
+
+
+section_e:
+  start_time: <%= "#{Date.today} 12:00:00" %>
+  end_time: <%= "#{Date.today} 12:50:00" %>
+  teacher: anderson_eugenia
+  subject: biology
+  class_room: class_05
+
+
+section_f:
+  start_time: <%= "#{Date.today} 13:00:00" %>
+  end_time: <%= "#{Date.today} 13:50:00" %>
+  teacher: kazantzis_john
+  subject: pak_studies
+  class_room: class_06
+
+section_f:
+  start_time: <%= "#{Date.today} 14:00:00" %>
+  end_time: <%= "#{Date.today} 14:50:00" %>
+  teacher: andrews_hayman
+  subject: arabic
+  class_room: class_06

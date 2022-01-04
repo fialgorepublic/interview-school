@@ -1,0 +1,10 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+class_01:
+  name: Class 01
+
+class_02:
+  name: Class 02
+
+class_03:
+  name: Class 03

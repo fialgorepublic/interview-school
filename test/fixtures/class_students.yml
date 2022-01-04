@@ -1,0 +1,9 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+class_student_1:
+  section: section_a
+  student: test
+
+class_student_2:
+  section: section_b
+  student: fahad

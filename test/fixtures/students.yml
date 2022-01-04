@@ -1,0 +1,9 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+fahad:
+  name: fahad ishfaq
+  email: fahadishfaq18@gmail.com
+
+test:
+  name: test user
+  email: testuser@gmail.com

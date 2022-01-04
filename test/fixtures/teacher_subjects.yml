@@ -1,13 +1,35 @@
-math_teacher_math:
-  teacher: math_teacher
+stone_john_math:
+  teacher: stone_john
   subject: math
-  level: 10
+  level: 3
 
-math_and_english_teacher_math:
-  teacher: math_and_english_teacher
-  subject: math
-  level: 8
-math_and_english_teacher_english:
-  teacher: math_and_english_teacher
+priya_ponnappa_english:
+  teacher: priya_ponnappa
   subject: english
+  level: 4
+
+wong_mia_chemistry:
+  teacher: wong_mia
+  subject: chemistry
+  level: 5
+
+stanbrige_peter_physics:
+  teacher: stanbrige_peter
+  subject: physics
+  level: 6
+
+anderson_eugenia_biology:
+  teacher: anderson_eugenia
+  subject: biology
+  level: 7
+  
+
+kazantzis_john_pak_studies:
+  teacher: kazantzis_john
+  subject: pak_studies
+  level: 8
+
+andrews_hayman_arabic:
+  teacher: andrews_hayman
+  subject: arabic
   level: 9

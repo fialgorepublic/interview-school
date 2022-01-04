@@ -6,5 +6,22 @@ english:
   name: English
   description: Language that everyone knows
 
-subject_without_teacher:
-  name: Subject without teacher
+chemistry:
+  name: Chemistry
+  description: chemistry subject
+
+physics:
+  name: Physics
+  description: physics subject
+
+biology:
+  name: Biology
+  description: biology subject
+
+pak_studies:
+  name: Pak Studies
+  description: pak studies subject
+
+arabic:
+  name: Arabic
+  description: arabic subject

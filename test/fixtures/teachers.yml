@@ -1,15 +1,27 @@
-math_teacher:
-  first_name: Math
-  last_name: Teacher
+stone_john:
+  first_name: Stone
+  last_name: John
 
-english_teacher:
-  first_name: English
-  last_name: Teacher
+priya_ponnappa:
+  first_name: Priya
+  last_name: Ponnappa
 
-math_and_english_teacher:
-  first_name: Math and English
-  last_name: Teacher
+wong_mia:
+  first_name: Wong 
+  last_name: Mia
 
-teacher_without_subjects:
-  first_name: Teacher without Subject
-  last_name: Still learning
+stanbrige_peter:
+  first_name: Stanbrige
+  last_name: Peter
+
+anderson_eugenia:
+  first_name: Anderson
+  last_name: Eugenia
+
+kazantzis_john:
+  first_name: Kazantzis
+  last_name: John
+
+andrews_hayman:
+  first_name: Andrews
+  last_name: Hayman
